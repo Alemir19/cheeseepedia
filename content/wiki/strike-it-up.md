@@ -10,7 +10,9 @@ credits = ["Duncan Brannan - Programmer, Voice of Chuck E. Cheese", "Annagrey We
 mediaDuration = "9:25"
 showtapeFormats = ["3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)"]
 downloadLinks = []
+sales = []
 alsoKnownAs = ["SHOWBIZ PIZZA TIME, INC 'CEC Live-Strike It Up/B-Day EXISTING STAGE 9 min. 25 sec. Ch. 1 & 2-Mono Mix Ch. 3-Data, Ch. 4-Gameroom"]
+latitudeLongitude = []
 tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
 +++
